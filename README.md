@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  ML Engineer | Data Scientist | Problem Solver
+  ML Engineer | Data Scientist 
 </h3>
 
 <p align="center">
