@@ -65,7 +65,7 @@
 
 ---
 
-### ⛅ [Weather Forecasting (Time Series)]()
+### ⛅ [Weather Forecasting Bangalore]()
 > 📈 A hybrid model combining **LSTM** and **XGBoost** to forecast Bangalore rainfall using India-WRIS data  
 > 🧠 LSTM handled seasonality/residuals, XGBoost captured trends  
 > 🎯 Accuracy: ~86.4%  
@@ -89,7 +89,9 @@
 ---
 
 ### 📊 [IPL Data Dashboard (Power BI)]()
-> 🏏 Interactive Power BI dashboards built on IPL dataset with insights on player performance, team stats, and match trends  
+> 📊 Developed an interactive IPL Ball-by-Ball Analytics Dashboard using Power BI and DAX
+> 🏏 A 4-page Dashboard on overview, batting, bowling, and match performance analysis.
+> 🚀 Implemented data cleaning, calculated measures, and interactive filters to build a professional analytics dashboard.
 > 📦 **Tools**: Power BI, SQL, Excel
 
 ---
